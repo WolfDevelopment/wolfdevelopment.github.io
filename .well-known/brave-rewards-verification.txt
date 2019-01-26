@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: wolfdevelopment.github.io
-Token: adfafddc78aa04fbb6c2d852be88a129dc61a1a0e89ffff652aa61d23a47d22f
